@@ -27,6 +27,6 @@ Here are some of my notable projects:
 ---  
   
 ## 📫 Contact  
-Email: [cannelle.gourdet@free.fr](mailto:cannelle.gourdet@free.fr)  
-LinkedIn: [Cannelle Gourdet](www.linkedin.com/in/cannelle-gourdet)  
-Discord: cannelle_e  
+**Email:** [cannelle.gourdet@free.fr](mailto:cannelle.gourdet@free.fr)  
+**LinkedIn:** [Cannelle Gourdet](www.linkedin.com/in/cannelle-gourdet)  
+**Discord:** cannelle_e  
