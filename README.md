@@ -7,7 +7,7 @@ Passionate about algorithms, competitive programming, and desktop software devel
   
 ## 🛠️ Technical Skills  
 
-**Languages:** C++, Python, OCaml, C, Rust, Bash/Batch, JavaScript  
+**Languages:** C++, Python, OCaml, C, Rust, Haskell, Bash/Batch/PowerShell, JavaScript  
 **Frameworks:** Svelte, Tauri, Django  
 **Version Control:** Git, GitHub, GitLab  
 **Databases:** PostgreSQL, MongoDB, SQLite  
