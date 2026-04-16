@@ -7,11 +7,10 @@ Passionate about algorithms, competitive programming, and desktop software devel
   
 ## 🛠️ Technical Skills  
 
-**Languages:** C++, Python, OCaml, C, Rust, Haskell, Bash/Batch/PowerShell, JavaScript  
+**Languages:** C++, Rust, Python, OCaml, C, Haskell, Bash/Batch/PowerShell, JavaScript  
 **Frameworks:** Svelte, Tauri, Django  
 **Version Control:** Git, GitHub, GitLab  
 **Databases:** PostgreSQL, MongoDB, SQLite  
-**Operating Systems:** Linux, Windows  
 **DevOps:** Docker, Dokploy, VPS  
 **Testing:** Unit, Functional, Integration, E2E, Performance, Security, GitHub Actions  
 **Others:** APIs  
@@ -21,7 +20,8 @@ Passionate about algorithms, competitive programming, and desktop software devel
 ## 💼 Projects  
 Here are some of my notable projects:  
   
-- [ArchTrace](https://archtrace.dev) – Architecture analysis software  
+- [ArchTrace](https://archtrace.dev) – Architecture analysis software
+- [qubby](https://github.com/cannellegrdt/qubby) – Quantum circuits simulator 
 - _Other projects will be added here over time..._  
   
 ---  
