@@ -21,7 +21,8 @@ Passionate about algorithms, competitive programming, and desktop software devel
 Here are some of my notable projects:  
   
 - [ArchTrace](https://archtrace.dev) – Architecture analysis software
-- [qubby](https://github.com/cannellegrdt/qubby) – Quantum circuits simulator 
+- [qubby](https://github.com/cannellegrdt/qubby) – Quantum circuits simulator
+- [Raytracer](https://github.com/cannellegrdt/Raytracer) – Raytracer in C++
 - _Other projects will be added here over time..._  
   
 ---  
