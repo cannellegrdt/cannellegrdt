@@ -23,6 +23,7 @@ Here are some of my notable projects:
 - [ArchTrace](https://archtrace.dev) – Architecture analysis software
 - [qubby](https://github.com/cannellegrdt/qubby) – Quantum circuits simulator
 - [Raytracer](https://github.com/cannellegrdt/Raytracer) – Raytracer in C++
+- [Aethergene](https://cannellegrdt.github.io/Aethergene-web/) – Evolutionary ecosystem simulator
 - _Other projects will be added here over time..._  
   
 ---  
