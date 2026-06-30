@@ -1,7 +1,7 @@
-# Hi, I'm Cannelle Gourdet 👋
+# Hi, I'm Cannelle Gourdet 🌱
 **Founder & Developer of [ArchTrace](https://archtrace.dev)  
-2nd-year student at Epitech  
-Passionate about algorithms, competitive programming, and desktop software development.**  
+First-year student at Ensimag  
+Passionate about algorithms, competitive programming, and computer graphics development.**  
   
 ---  
   
