@@ -1,11 +1,11 @@
 # Hi, I'm Cannelle Gourdet 🌱
 **Founder & Developer of [ArchTrace](https://archtrace.dev)  
 First-year student at Ensimag  
-Passionate about algorithms, competitive programming, and computer graphics development.**  
+Passionate about computer graphics development.**  
   
 ---  
   
-## 🛠️ Technical Skills  
+## 🛠️ Technical skills  
 
 **Languages:** C++, Rust, Python, OCaml, C, Haskell, Bash/Batch/PowerShell, JavaScript  
 **Frameworks:** Svelte, Tauri, Django  
@@ -31,4 +31,3 @@ Here are some of my notable projects:
 ## 📫 Contact  
 **Email:** [cannelle.gourdet@free.fr](mailto:cannelle.gourdet@free.fr)  
 **LinkedIn:** [Cannelle Gourdet](www.linkedin.com/in/cannelle-gourdet)  
-**Discord:** cannelle_e  
